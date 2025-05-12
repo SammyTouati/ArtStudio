@@ -1,0 +1,9 @@
+/project-folder
+  ├── index.html
+  ├── gallery.html
+  ├── contact.html
+  ├── style.css
+  └── /images
+        ├── art1.jpg
+        ├── art2.jpg
+        └── ...
